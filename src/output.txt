@@ -1,0 +1,430 @@
+[45m
+[1;37m
+Welcome to the Central Library
+************************************************ 
+
+[0m
+[1;93m
+Welcome to the Login Page: 
+ Enter Username and Password
+Enter email: 
+Enter password: 
+[42m
+[1;97m
+Login successful!!!
+[0m
+[0m
+[1;35m
+Welcome Default Member to the member menu
+Possible actions: 
+
+1. Check for available books in library.
+2. Search for particular books.
+3. Borrow book.
+4. Return book.
+5. See my Transactions
+6. Logout
+7. Quit
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[46m
+[1;34m
+[Adventure: She: A History of Adventure by H. Rider Haggard;  ISBN: 69001
+, Adventure: The Little Prince by Antoine de Saint-Exupery;  ISBN: 14396
+, Autobiography and Memoir: The Diary of Anne Frank by Anne Frank;  ISBN: 16787
+, Biography: Lust for Life by Irving Stone;  ISBN: 13919
+, Classics: Dream Of The Red Chamber by Cao Xueqin;  ISBN: 31072
+, Coding: Altimate Java by Chris;  ISBN: 86222
+, Crime: The Godfather by Mario Puzo;  ISBN: 54666
+, Essays: The Hite Report by Shere Hite;  ISBN: 63226
+, Fairytales: Jonathan Livingston Seagull by Richard Bach;  ISBN: 23985
+, Fantasy: Harry Potter and the Chamber of Secrets by JK Rowling;  ISBN: 96864
+, Fantasy: Harry Potter and the Philosopher's Stone by JK Rowling;  ISBN: 27237
+, Fantasy: Harry Potter and the Prisoner of Azkaban by JK Rowling;  ISBN: 17978
+, Fantasy: The Hobbit by JRR Tolkien;  ISBN: 40369
+, Fantasy: The Lion, The Witch and The Wardrobe by CS Lewis;  ISBN: 95547
+, Historical Fiction: A Tale Of Two Cities by Charles Dickens;  ISBN: 79468
+, Horror: Flowers in the Attic by VC Andrews;  ISBN: 37927
+, Horror: Jaws by Peter Benchley;  ISBN: 63924
+, Horror: Rebecca by Daphne Du Maurier;  ISBN: 86514
+, Humour and satire: Animal Farm by George Orwell;  ISBN: 46096
+, Literary Fiction: To Kill a Mockingbird by Harper Lee;  ISBN: 46136
+, Literary Fiction: War and Peace by Leo Tolstoy;  ISBN: 28373
+, Mystery: And Then There Were None by Agatha Christie;  ISBN: 75313
+, Mystery: The Da Vinci Code by Dan Brown;  ISBN: 71135
+, Romance: The Bridges of Madison County by Robert James Waller;  ISBN: 41351
+, Romance: The Fault in Our Stars by John Green;  ISBN: 63686
+, Science Fiction: Dune by Frank Herbert;  ISBN: 45835
+, Science Fiction: Nineteen Eighty-Four by George Orwell;  ISBN: 73651
+, Science Fiction: The Hitchhiker's Guide to the Galaxy by Douglas Adams;  ISBN: 55663
+, Thrillers: The Eagle Has Landed by Jack Higgins;  ISBN: 44744
+, Thrillers: The Girl on the Train by Paula Hawkins;  ISBN: 91945
+]
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[1;34m
+Choose from the options below for your book search: 
+1. By title
+2. By author
+3. By cartegory
+Enter title of book: 
+[]
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[1;34m
+Choose from the options below for your book search: 
+1. By title
+2. By author
+3. By cartegory
+Enter title of book: 
+[Science Fiction: Nineteen Eighty-Four by George Orwell;  ISBN: 73651
+]
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[1;34m
+Choose from the options below for your book search: 
+1. By title
+2. By author
+3. By cartegory
+Enter name of author: 
+author
+[Science Fiction: The Hitchhiker's Guide to the Galaxy by Douglas Adams;  ISBN: 55663
+]
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[1;34m
+Choose from the options below for your book search: 
+1. By title
+2. By author
+3. By cartegory
+Enter category of book: 
+[Mystery: And Then There Were None by Agatha Christie;  ISBN: 75313
+, Mystery: The Da Vinci Code by Dan Brown;  ISBN: 71135
+]
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+Enter title of book you intend to borrow: 
+[42m
+[1;97m
+Harry Potter and the Chamber of Secrets borrowed successfully by Default Member
+Number of copies left: 4
+[0m
+[1;94m
+Default Member Make your choice from the menu
+[0m
+[42m
+[1;97m
+Default Member logged out successfully.
+[0m
+[1;93m
+Welcome to the Login Page: 
+ Enter Username and Password
+Enter email: 
+Enter password: 
+[42m
+[1;97m
+Login successful!!!
+[0m
+[0m
+[1;36m
+Welcome Joshua Abi to the admin menu
+Possible actions: 
+
+1. Add new book to library.
+2. Remove book from library.
+3. Check for available books in library.
+4. Search for particular books.
+5. Borrow book.
+6. Return book.
+7. Register a new member to library.
+8. Remove a member from library.
+9. Check list of library members.
+10. Search for particular members.
+11. Display my transactions
+12. Display all transactions
+13.Display particular transactions
+14. Logout.
+15. Quit
+[0m
+[1;94m
+Joshua Abi Make your choice from the menu
+[0m
+Enter title of book you intend to borrow: 
+[42m
+[1;97m
+Harry Potter and the Chamber of Secrets borrowed successfully by Joshua Abi
+Number of copies left: 3
+[0m
+[1;94m
+Joshua Abi Make your choice from the menu
+[0m
+[45m
+[1;37m
+Default Member logged out successfully.
+[0m
+[1;93m
+Welcome to the Login Page: 
+ Enter Username and Password
+Enter email: 
+Enter password: 
+[42m
+[1;97m
+
+
+
+
+[45m
+[1;37m
+Thanks for using the Library 
+
+See you next time. Bye!!!
+[0m
+
+[45m
+[1;37m
+Welcome to the Central Library
+************************************************ 
+
+[0m
+[1;93m
+Welcome to the Login Page: 
+ Enter Username and Password
+Enter email: 
+Enter password: 
+[42m
+[1;97m
+Login successful!!!
+[0m
+[0m
+[1;36m
+Welcome Chris Esen to the admin menu
+Possible actions: 
+
+1. Add new book to library.
+2. Remove book from library.
+3. Check for available books in library.
+4. Search for particular books.
+5. Borrow book.
+6. Return book.
+7. Register a new member to library.
+8. Remove a member from library.
+9. Check list of library members.
+10. Search for particular members.
+11. Display my transactions
+12. Display all transactions
+13.Display particular transactions
+14. Logout.
+15. Quit
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+Enter details to add new book 
+
+Enter book title: 
+Enter author name: 
+Enter cathegory: 
+[42m
+[1;97m
+Half of a yellow sun added successfully!!!
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[46m
+[1;34m
+[Adventure: She: A History of Adventure by H. Rider Haggard;  ISBN: 52040
+, Adventure: The Little Prince by Antoine de Saint-Exupery;  ISBN: 90130
+, Autobiography and Memoir: The Diary of Anne Frank by Anne Frank;  ISBN: 56139
+, Biography: Lust for Life by Irving Stone;  ISBN: 52188
+, Classics: Dream Of The Red Chamber by Cao Xueqin;  ISBN: 69743
+, Coding: Altimate Java by Chris;  ISBN: 94018
+, Crime: The Godfather by Mario Puzo;  ISBN: 51826
+, Essays: The Hite Report by Shere Hite;  ISBN: 88774
+, Fairytales: Jonathan Livingston Seagull by Richard Bach;  ISBN: 32190
+, Fantasy: Half of a yellow sun by Chimamanda Ngozi;  ISBN: 42350
+, Fantasy: Harry Potter and the Chamber of Secrets by JK Rowling;  ISBN: 18748
+, Fantasy: Harry Potter and the Philosopher's Stone by JK Rowling;  ISBN: 88458
+, Fantasy: Harry Potter and the Prisoner of Azkaban by JK Rowling;  ISBN: 31461
+, Fantasy: The Hobbit by JRR Tolkien;  ISBN: 58758
+, Fantasy: The Lion, The Witch and The Wardrobe by CS Lewis;  ISBN: 77998
+, Historical Fiction: A Tale Of Two Cities by Charles Dickens;  ISBN: 10515
+, Horror: Flowers in the Attic by VC Andrews;  ISBN: 87510
+, Horror: Jaws by Peter Benchley;  ISBN: 42719
+, Horror: Rebecca by Daphne Du Maurier;  ISBN: 21845
+, Humour and satire: Animal Farm by George Orwell;  ISBN: 99802
+, Literary Fiction: To Kill a Mockingbird by Harper Lee;  ISBN: 90909
+, Literary Fiction: War and Peace by Leo Tolstoy;  ISBN: 11813
+, Mystery: And Then There Were None by Agatha Christie;  ISBN: 19882
+, Mystery: The Da Vinci Code by Dan Brown;  ISBN: 76084
+, Romance: The Bridges of Madison County by Robert James Waller;  ISBN: 21518
+, Romance: The Fault in Our Stars by John Green;  ISBN: 64066
+, Science Fiction: Dune by Frank Herbert;  ISBN: 73292
+, Science Fiction: Nineteen Eighty-Four by George Orwell;  ISBN: 56595
+, Science Fiction: The Hitchhiker's Guide to the Galaxy by Douglas Adams;  ISBN: 17152
+, Thrillers: The Eagle Has Landed by Jack Higgins;  ISBN: 21349
+, Thrillers: The Girl on the Train by Paula Hawkins;  ISBN: 52104
+]
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[1;32m
+[[UserName: Chris Esen idNumber: 183 status: Regular]
+, [UserName: Lydia Ade idNumber: 660 status: Regular]
+, [UserName: Joshua Abi idNumber: 466 status: Regular]
+, [UserName: Saye Sayo idNumber: 544 status: Regular]
+, [UserName: Wale Asaju idNumber: 851 status: Regular]
+, [UserName: Default Member idNumber: 642 status: Regular]
+, [UserName: Default Admin idNumber: 929 status: Regular]
+]
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+
+ Register next member
+Enter User name: 
+Enter email address: 
+Enter password: 
+Enter street name: 
+Enter city: 
+Enter state: 
+Enter country: 
+[42m
+[1;97m
+Registration successful!!!
+[0m
+Hakeem Tavnir  you are welcome!!!
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[1;32m
+[[UserName: Chris Esen idNumber: 183 status: Regular]
+, [UserName: Lydia Ade idNumber: 660 status: Regular]
+, [UserName: Joshua Abi idNumber: 466 status: Regular]
+, [UserName: Saye Sayo idNumber: 544 status: Regular]
+, [UserName: Wale Asaju idNumber: 851 status: Regular]
+, [UserName: Default Member idNumber: 642 status: Regular]
+, [UserName: Default Admin idNumber: 929 status: Regular]
+, [UserName: Hakeem Tavnir  idNumber: 248 status: Regular]
+]
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[1;32m
+[]
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+Enter title of book you intend to borrow: 
+[42m
+[1;97m
+Dune borrowed successfully by Chris Esen
+Number of copies left: 4
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+Enter title of book you intend to borrow: 
+[42m
+[1;97m
+Harry Potter and the Chamber of Secrets borrowed successfully by Chris Esen
+Number of copies left: 4
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[Science Fiction: Dune by Frank Herbert;  ISBN: 73292
+, Fantasy: Harry Potter and the Chamber of Secrets by JK Rowling;  ISBN: 18748
+]
+
+Enter title of book you intend to return: 
+Enter year: 
+Enter month: 
+Enter day: 
+[1;91m
+You have kept this book for 63 extra days.
+Please do pay your fine of: $78.75
+[0m
+[42m
+[1;97m
+Dune returned successfully
+Number of copies available: 5
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[1;94m
+[Transaction:[code=1059, memberName=Chris Esen, bookTittle=Dune
+ startDate=2022-12-20, endDate=2022-12-30	 Borrow], Transaction:[code=5861, memberName=Chris Esen, bookTittle=Harry Potter and the Chamber of Secrets
+ startDate=2022-12-20, endDate=2022-12-30	 Borrow], Transaction:[code=5013, memberName=Chris Esen, bookTittle=Dune
+ startDate=2022-10-20, endDate=2023-01-01	 Return]]
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[1;34m
+Choose from the options below for your transaction search: 
+1. By Member
+2. By Book
+3. By status
+Enter Name of member: 
+[Transaction:[code=1059, memberName=Chris Esen, bookTittle=Dune
+ startDate=2022-12-20, endDate=2022-12-30	 Borrow], Transaction:[code=5861, memberName=Chris Esen, bookTittle=Harry Potter and the Chamber of Secrets
+ startDate=2022-12-20, endDate=2022-12-30	 Borrow], Transaction:[code=5013, memberName=Chris Esen, bookTittle=Dune
+ startDate=2022-10-20, endDate=2023-01-01	 Return]]
+[0m
+[1;94m
+Chris Esen Make your choice from the menu
+[0m
+[42m
+[1;97m
+Chris Esen logged out successfully. 
+
+[0m
+[1;93m
+Welcome to the Login Page: 
+ Enter Username and Password
+Enter email: 
+Enter password: 
+[42m
+[1;97m
+Login successful!!!
+[0m
+[0m
+[1;93m
+[1;35m
+Welcome Saye Sayo to the member menu
+Possible actions: 
+
+1. Check for available books in library.
+2. Search for particular books.
+3. Borrow book.
+4. Return book.
+5. See my Transactions
+6. Logout
+7. Quit
+[0m
+[1;94m
+Saye Sayo Make your choice from the menu
+[0m
+[1;33m
+Thanks for using the Library 
+
+See you next time. Bye!!!
+[0m
+[0m
